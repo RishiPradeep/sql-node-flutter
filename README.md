@@ -1,6 +1,6 @@
 Steps
 
-1: (YOU ALREADY NEED TO HAVE A DATABASE WITH A TABLE CALLED NAMES WHICH HAS ONE ATTRIBUTE CALLED NAMES IN IT WHICH IS VARCHAR 255) Enable the MYSQL server service and make sure the database is hosted on your localhost.
+1: (YOU ALREADY NEED TO HAVE A DATABASE WITH A TABLE CALLED NAMES WHICH HAS ONE ATTRIBUTE CALLED NAME IN IT WHICH IS VARCHAR 255) Enable the MYSQL server service and make sure the database is hosted on your localhost.
 
 2: Run the server.js file using command 'node server.js'
 
